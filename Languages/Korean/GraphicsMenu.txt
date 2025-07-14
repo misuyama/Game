@@ -1,0 +1,37 @@
+﻿[General]
+4kTexturesSetting|4K 텍스처 사용:
+AAMessage|NVIDIA DLSS 기반 안티앨리어싱
+AdvancedSettingsHeader|고급 설정
+AmbientOcclusionQualitySetting|환경광 차폐 품질:
+AntialiasingSetting|안티앨리어싱:
+ApplyGraphicsSettings|적용:
+BloomSetting|글로우 효과:
+BrightnessSetting|밝기:
+DLSSDisclaimer|(Nvidia RTX 2060 이상 그래픽카드에서만 사용 가능)
+DLSSQualitySetting|Nvidia DLSS:
+DSLabelText|그림자 켜기:
+FieldOfViewSetting|시야각:
+FullScreenSetting|전체 화면:
+GammaBrightnessSetting|감마 / 밝기:
+GraphicsDisclaimerText|더 많은 설정과 최적화가 개발 중입니다. 현재는 최고 Ultra 또는 최저 Potato만 선택 가능해요!
+GraphicsHeader|그래픽
+MaxBGFPS|최대 백그라운드 FPS:
+MaxFGFPS|최대 포그라운드 FPS:
+MotionBlurSetting|모션 블러:
+QualityPresetSetting|품질 프리셋:
+RealtimeMirrorsSetting|실시간 거울:
+RealtimeReflectionsSetting|실시간 반사:
+RealTimeShadowsSetting|실시간 그림자:
+ResolutionScaling|FSR 해상도 스케일링:
+ResolutionSetting|해상도:
+ScreenSpaceReflectionSetting|스크린 공간 반사:
+SettingsHeader|설정
+ShadowDistanceSetting|그림자 거리:
+ShadowQualitySetting|그림자 품질:
+TextureQualitySetting|텍스처 품질:
+VolumetricFogQualitySetting|볼륨 안개 품질:
+VolumetricLightsSetting|볼륨 라이트:
+VolumetricQualitySetting|그림자 최대 해상도:
+VsyncDisclaimer|수직동기화(Vsync)를 켜면 포그라운드 FPS 제한이 적용됩니다.
+VSyncDisclaimer|가능한 경우 FPS를 모니터 주사율에 맞춥니다.
+VSyncSetting|수직동기화(Vsync):

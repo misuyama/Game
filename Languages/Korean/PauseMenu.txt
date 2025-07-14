@@ -1,0 +1,40 @@
+﻿[General]
+ActionsText|조작
+AudioSettingsText|오디오 설정
+AudioText|음성:
+CensorNudityText|노출 제한:
+ConfirmContinueWithoutSavingCancelText|다시 생각할게
+ConfirmContinueWithoutSavingConfirmText|확인할게
+ConfirmContinueWithoutSavingPromptText|저장하지 않고 진행하면 진행 중인 내용이 사라지고 데이터가 손상됩니다! 계속하시겠습니까?
+DLCButtonText|여기서 받기!
+DLCInfoText|(DLC 미설치)
+DLCSettingsText|DLC 설정
+DMCAModeInfoText|(저작권 보호된 모든 오디오 비활성화)
+DMCAModeLabelText|DMCA 음악 끄기
+DMCAModeTooltipText|저작권 보호된 모든 오디오를 끕니다
+DoneText|완료
+ExplicitContentText|성인 콘텐츠 추가팩
+FontSizeText|글꼴 크기:
+FontTypeText|글꼴:
+GameplaySettingsText|게임 설정
+GraphicsSettingsText|그래픽 설정
+InputConfigurationButtonText|키보드 설정
+KeyboardText|키보드
+LoadGameText|불러오기
+MainMenuText|메인 메뉴
+MouseText|마우스
+MusicText|음악:
+PauseText|일시정지
+PlayChatterAudioText|배경 대화음 재생:
+QuitGameText|게임 종료
+ResetCSCPrefsText|튜토리얼 초기화
+ResetTutorialsText|튜토리얼 초기화
+RestartGameText|게임 재시작
+SaveGameText|저장하기
+SettingsHeaderText|설정
+ShowChatterSubtitlesText|배경 대화 자막 표시:
+ShowDialogueText|대화 자막 표시:
+ShowTutorialsText|스토리 튜토리얼 표시:
+SkipIntroCutscenesText|인트로 영상 건너뛰기:
+UseLegacyIntimacyDisclaimerTextPauseMenu|(권장하지 않음)
+UseLegacyIntimacyText|POV 성행위 활성화:

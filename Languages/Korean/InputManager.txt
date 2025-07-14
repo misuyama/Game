@@ -1,0 +1,28 @@
+﻿[General]
+_done|완료
+_restoreDefaultsButtonLabel|기본값 복원
+CombatModeText|전투 모드
+ControllerXSensitivityText|컨트롤러 X축 감도
+ControllerYSensitivityText|컨트롤러 Y축 감도
+Crouch|웅크리기
+FlashBreastsText|가슴 노출
+InputHeader|입력
+InputText|입력
+InventoryText|인벤토리
+InvertMouseYText|마우스 Y축 반전
+LoadGameText|불러오기
+LookText|보기
+MasturbateText|자위
+MemoriesText|기억
+MouseSensitivityText|마우스 감도
+MoveText|이동
+OpportunitiesText|기회
+PeeText|소변 보기
+PenisText|음경
+PlayerActionsText|플레이어 동작
+QuickSaveText|빠른 저장
+RightHandMode|오른손 모드
+RighthandText|오른손
+RunText|달리기
+SaveGameText|저장
+UIRadialText|원형 메뉴
